@@ -71,8 +71,8 @@ Details: [`docs/use_of_funds_public.md`](./docs/use_of_funds_public.md).
 > Replace with your real links once you’re ready.
 
 - Website: https://samuraifrenchienft.com  
-- Twitter/X: https://x.com/samuraifrenchienft  
-- Discord: https://discord.gg/your-invite  
-- Telegram: https://t.me/your-telegram  
+- Twitter/X: https://x.com/Frenchieklan  
+- Discord: https://discord.gg/SDPSM84gpd  
+- Telegram: https://t.me/+BvVwKbzFudozYzQx
 - Zealy: https://zealy.io/c/samuraifrenchienft
 
