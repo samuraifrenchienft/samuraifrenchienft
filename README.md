@@ -85,8 +85,8 @@ The Empire spreads because **the people spread it**.
 ## 🔗 Join the Clan
 
 🐦 Twitter: https://twitter.com/SamuraiFrenchie  
-💬 Discord: https://discord.gg/  
-📜 Lore Hub (Substack): Coming Soon  
+💬 Discord: (https://discord.gg/GRvNcXDN)
+📜 Lore Hub (Substack):(https://substack.com/@mastersamurai) 
 💰 Token Info: Coming Soon
 
 ---
