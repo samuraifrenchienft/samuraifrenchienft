@@ -1,78 +1,100 @@
-# Samurai Frenchie NFT Ecosystem
+# 🏯 Samurai Frenchie: The Empire Rises
+### Where Traders Become Legends — Dreams Begin On-Chain
 
-**SamuraiFrenchieNFT** is a story-driven NFT + meme coin ecosystem set in a stylized samurai world mixed with modern crypto culture. The goal is to build a long-term brand and universe, not a one-and-done degen flip.
+Samurai Frenchie is a storytelling-driven NFT + meme coin ecosystem built for traders, creators, and warriors who want to be **part of the story while shaping the outcome**.
 
-This repo hosts public documentation (and later, any relevant code) for the project.
-
----
-
-## Project Overview
-
-- **NFT Collection**  
-  A curated collection of Samurai Frenchie characters, enemies, and allies set in a Japanese-inspired world.
-
-- **Meme Coin**  
-  A community-driven token that ties into the NFTs, lore, and future app.  
-  Chain: **Base** (planned)
-
-- **Future App (Duel/Game Concept)**  
-  A light, gamified experience where holders and community members can battle, compete, and interact using their NFTs and the token.
-
-For more detail, see [`docs/overview.md`](./docs/overview.md).
+The Empire rises first on **Base**, but ancient prophecy has already marked a new conquest in the mystical lands of **Solana**. This expansion has been woven into the story from the beginning — not a pivot, but destiny.
 
 ---
 
-## Tokenomics (Public Summary)
+## 🐕 Samurai Frenchie NFT Collection
 
-- **Total Supply:** 760,000,000
-- **Key allocations (high level):**
-  - Investors: **10%**
-  - Team: **2%** (with up to **1%** reserved as a strategic fund)
-  - Promo & Ecosystem: **5%**
-  - Remaining supply allocated to liquidity, community rewards, ecosystem rewards, and treasury/development.
+| Chain | Supply | Mint Price | Mint Access | Mint Day |
+|-------|--------|------------|-------------|----------|
+| Base Chain Drop | 2,000 NFTs | Public: $40 | WL: $30 | TBA |
+| Solana Chain Drop | 2,000 NFTs | Public: $40 | WL: $30 | TBA |
 
-- **Lockups (high level):**
-  - **Investors:** Short 1–3 month vesting depending on tier.
-  - **Team & Strategic:** ~12-month vesting.
-  - **Most promo:** Majority vested over 12 months.
+**Total NFT Supply: 4,000**  
+(2,000 per chain)
 
-More detail in [`docs/tokenomics.md`](./docs/tokenomics.md).
-
----
-
-## Roadmap (High Level)
-
-1. Brand & community foundations  
-2. NFT collection launch  
-3. Meme coin launch via launchpad  
-4. App MVP (duel/game concept)  
-5. Ecosystem expansion & collaborations
-
-Full roadmap: [`docs/roadmap.md`](./docs/roadmap.md).
+### NFT Utility
+- Built-in progression via **Clan Ranks**
+- Eligibility to shape official **lore on Substack**
+- Access to contests + community spotlight features
+- Holders of **>3 NFTs** qualify for **$CHIE airdrop windows**
+- Early access to future expansions & perks
 
 ---
 
-## Public Use of Funds (High-Level View)
+## 🪙 $CHIE — Currency of the Clan  
+**Supply:** 420,760,000 $CHIE
 
-A simplified breakdown of how capital is intended to be used across:
+$CHIE is designed to reward those who **build the Empire**:
 
-- Community & operations  
-- NFT & brand development  
-- Marketing, KOLs & collaborations  
-- Product & development  
-- Liquidity, legal & reserve
+✔ **Airdrops** to early Samurai Frenchie supporters:  
+• **Beta testers**  
+• Wallets **holding >3 NFTs** during early reward windows
 
-Details: [`docs/use_of_funds_public.md`](./docs/use_of_funds_public.md).
+✔ Ecosystem incentives tied to rank + participation
+
+**No passive airdrops**  
+**No random snapshots**  
+Loyalty + involvement = power
 
 ---
 
-## Links
+## ⚔️ Ranks of the Empire
 
-> Replace with your real links once you’re ready.
+| Rank | Requirement |
+|------|-------------|
+| Shogun Council | Core leadership + trusted commanders |
+| Bugyō Elite | Level 100 Discord warriors |
+| Ronin | Loyal holders & contributors |
+| Retainers | Builders, artists, collaborators |
+| Subjects | New warriors beginning the path |
 
-- Website: https://samuraifrenchienft.com  
-- Twitter/X: https://x.com/Frenchieklan  
-- Discord: https://discord.gg/SDPSM84gpd  
-- Telegram: https://t.me/+BvVwKbzFudozYzQx
+Every rank is **earned — never bought**.
 
+---
 
+## 📚 Story as Fuel
+
+Samurai Frenchie evolves through **constant storytelling**:
+
+- Multiple lore drops weekly
+- New factions, characters, and threats introduced over time
+- Community content selected & **published into canon**
+- The world is built around **active participation**
+
+Read. Fight. Influence the story.
+
+---
+
+## 🚀 Growth Strategy
+
+We build with **culture**, not hype:
+- Twitter Spaces raids + cross-community collabs
+- Creative campaigns designed with the community
+- Substack storytelling expands brand identity
+- Memetic presence powered by $CHIE
+
+The Empire spreads because **the people spread it**.
+
+---
+
+## 🔗 Join the Clan
+
+🐦 Twitter: https://twitter.com/SamuraiFrenchie  
+💬 Discord: https://discord.gg/  
+📜 Lore Hub (Substack): Coming Soon  
+💰 Token Info: Coming Soon
+
+---
+
+### ⚔️ This is Your Summons
+
+Stand with the clan.  
+Earn your rank.  
+Write your legend.
+
+**The Empire Rises — Chain by Chain.**
