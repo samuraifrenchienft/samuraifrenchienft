@@ -74,5 +74,5 @@ Details: [`docs/use_of_funds_public.md`](./docs/use_of_funds_public.md).
 - Twitter/X: https://x.com/Frenchieklan  
 - Discord: https://discord.gg/SDPSM84gpd  
 - Telegram: https://t.me/+BvVwKbzFudozYzQx
-- Zealy: https://zealy.io/c/samuraifrenchienft
+
 
