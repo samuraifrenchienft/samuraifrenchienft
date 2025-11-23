@@ -1,61 +1,111 @@
-# Use of Funds – Public Overview
+# Use of Funds (Public)
 
-High-level view of how raised funds are expected to be allocated. Exact percentages may vary by round.
+This document outlines how funds raised for the project will be allocated.  
+The focus of this round is **building** – shipping product fast and clean – so
+the majority of capital is directed to **development and an additional dev hire**.
 
----
-
-## 1. Community & Operations
-
-- Lead/mod team compensation and training.
-- Tools and structure for Discord/Telegram.
-- Basic admin and ops.
-
-**Approx range:** ~20–25%
+Percentages are approximate and may shift slightly based on the final raise size.
 
 ---
 
-## 2. NFT & Brand Development
+## High-Level Allocation
 
-- NFT art production and metadata.
-- Website updates, banners, and visual systems.
-- Lore writing, promo art, and narrative content.
-
-**Approx range:** ~15–25%
-
----
-
-## 3. Marketing, KOLs & Collaborations
-
-- KOLs on X with degen/Base audiences.
-- YouTube coverage (project breakdowns, ecosystem explainers).
-- Paid AMAs and whitelist collaborations with NFT communities.
-- Campaigns around NFT mint, coin launch, and app updates.
-
-**Approx range:** ~25–35%
+- **60–70% — Core Development & Extra Dev**
+- **10–15% — Infrastructure & Tools**
+- **10–15% — Community, Marketing & Growth**
+- **5–10% — Operations, Legal & Admin**
+- **5% — Reserve / Buffer**
 
 ---
 
-## 4. Product & Development
+## 1. Core Development & Extra Dev (60–70%)
 
-- App MVP (duel/game) and iterations.
-- Internal tools and integrations needed for the ecosystem.
+This is the largest part of the allocation.
 
-**Approx range:** ~15–25%
+**Goal:** Ship a stable, polished product faster by putting most of the funds
+directly into build work.
+
+**Covers:**
+
+- Core developer(s) currently working on the product
+- **Extra dev hire / additional engineering capacity** to speed up:
+  - Core game/app features
+  - Security and reliability improvements
+  - UI/UX upgrades and polish
+- Short-term specialist work (e.g. audits, architecture review, integrations)
+
+This category is intentionally oversized compared to the others so that the
+majority of the round directly accelerates shipping and iteration.
 
 ---
 
-## 5. Liquidity, Legal & Reserve
+## 2. Infrastructure & Tools (10–15%)
 
-- Initial token liquidity support.
-- Legal/compliance and advisory where needed.
-- Treasury and contingency reserve.
+Everything needed to keep the product live, fast, and testable.
 
-**Approx range:** ~10–20%
+**Covers:**
+
+- Servers, hosting, and API costs
+- Databases, monitoring, analytics
+- Developer tools, testing environments, automation
+- Third-party services tightly tied to the app’s performance
+
+This is kept lean but sufficient to support live traffic and future scaling.
 
 ---
 
-## Philosophy
+## 3. Community, Marketing & Growth (10–15%)
 
-- Balance between **building real product/brand** and **bringing attention/users**.
-- Avoid spending everything on hype with no foundation.
-- Maintain enough reserve to keep building beyond a single cycle.
+Still important, but minimized to make room for a larger dev allocation.
+
+**Covers:**
+
+- Community management support
+- Launch campaigns and collaborations
+- Graphics, branding assets, and content for announcements
+- Targeted marketing experiments, not bloated ad spend
+
+The focus here is **efficient** visibility, not burning capital on big,
+unnecessary campaigns.
+
+---
+
+## 4. Operations, Legal & Admin (5–10%)
+
+Only what’s necessary to run things cleanly and compliantly.
+
+**Covers:**
+
+- Basic legal review and documentation
+- Accounting, bookkeeping, and reporting
+- Minimal admin tools and services
+
+Kept small on purpose – this is support, not the main event.
+
+---
+
+## 5. Reserve / Buffer (5%)
+
+A small buffer for unexpected but critical needs.
+
+**Covers:**
+
+- Unplanned infra spikes
+- Critical bug bounties or emergency fixes
+- Adjustments between categories if something proves higher impact than expected
+
+The idea is not to sit on a war chest, but to avoid being forced into bad
+decisions if something changes mid-build.
+
+---
+
+## Summary
+
+This round is **build-first**:
+
+- Most of the funds go into **development and an extra dev**, so product
+  velocity stays high.
+- Marketing, community, and ops are funded enough to support growth, but not
+  at the cost of shipping.
+- Infra and buffer are sized to keep the project stable without bloating
+  overhead.
