@@ -87,7 +87,8 @@ The Empire spreads because **the people spread it**.
 🐦 **Twitter**: https://twitter.com/SamuraiFrenchie  
 💬 **Discord**: https://discord.gg/GRvNcXDN  
 📚 **Lore Hub (Substack)**: https://substack.com/@mastersamurai  
-💰 **Token Info**: Coming Soon  
+💰 **Token Info**:  
+🗺️ 2025 Roadmap → [ROADMAP.md](ROADMAP.md)
 
 ---
 
