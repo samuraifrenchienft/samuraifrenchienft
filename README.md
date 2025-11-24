@@ -87,11 +87,10 @@ The Empire spreads because **the people spread it**.
 🐦 **Twitter**: https://twitter.com/SamuraiFrenchie  
 💬 **Discord**: https://discord.gg/GRvNcXDN  
 📚 **Lore Hub (Substack)**: https://substack.com/@mastersamurai  
-💰 **Token Info**:  
+💰 **Token Info**: - [$CHIE'S Tokenomics](docs/token/chies_tokenomics.md)
 🗺️ 2025 Roadmap → [ROADMAP.md](ROADMAP.md)
 
 ---
-
 ### ⚔️ This is Your Summons
 
 Stand with the clan.  
