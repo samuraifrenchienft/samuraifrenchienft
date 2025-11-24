@@ -98,3 +98,5 @@ Earn your rank.
 Write your legend.
 
 **The Empire Rises — Chain by Chain.**
+All Samurai Frenchie artwork, logos, and character designs are © 2025 Samurai Frenchie.
+All rights reserved. Commercial use requires written permission.
