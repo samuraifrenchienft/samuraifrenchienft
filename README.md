@@ -88,7 +88,7 @@ The Empire spreads because **the people spread it**.
 💬 **Discord**: https://discord.gg/GRvNcXDN  
 📚 **Lore Hub (Substack)**: https://substack.com/@mastersamurai  
 💰 **Token Info**: - [$CHIE'S Tokenomics](docs/token/chies_tokenomics.md)
-🗺️ 2025 Roadmap → [ROADMAP.md](ROADMAP.md)
+
 
 ---
 ### ⚔️ This is Your Summons
